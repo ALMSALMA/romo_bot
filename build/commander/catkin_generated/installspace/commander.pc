@@ -1,0 +1,8 @@
+prefix=/home/romo18/ros_projects/romo_bot/install
+
+Name: commander
+Description: Description of commander
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
